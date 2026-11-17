@@ -1,0 +1,6 @@
+QUICK LAUNCH — n8n Flow Library
+=========================
+
+See README for the download buttons.
+
+(last checked: 2026-11-17)
